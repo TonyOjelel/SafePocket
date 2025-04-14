@@ -1,0 +1,6 @@
+[submodule "SafePocket-backend"]
+	path = SafePocket-backend
+	url = ./SafePocket-backend
+[submodule "SafePocket-frontend"]
+	path = SafePocket-frontend
+	url = ./SafePocket-frontend
